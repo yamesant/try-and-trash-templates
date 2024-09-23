@@ -1,0 +1,17 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Try and Trash",
+    "classifications": [
+      "Solution"
+    ],
+    "name": "Try and Trash New Solution",
+    "description": "Create solution with customised .gitignore and empty README.md",
+    "identity": "TryAndTrash.NewSolution",
+    "shortName":  "tat.solution",
+    "sourceName": "solution1",
+    "defaultName": "Solution1",
+    "tags": {
+        "language": "C#",
+        "type": "solution"
+      }
+  }

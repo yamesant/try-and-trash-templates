@@ -1,0 +1,22 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Try and Trash",
+    "classifications": [ "Common", "Code" ],
+    "identity": "TryAndTrash.StringExtensions",
+    "name": "Try and Trash String Extensions",
+    "shortName": "tat.stringext",
+    "tags": {
+      "language": "C#",
+      "type": "item"
+    },
+    "symbols": {
+      "ClassName":{
+        "type": "parameter",
+        "description": "The name of the code file and class.",
+        "datatype": "text",
+        "replaces": "StringExtensions",
+        "fileRename": "StringExtensions",
+        "defaultValue": "StringExtensions"
+      }
+    }
+  }
