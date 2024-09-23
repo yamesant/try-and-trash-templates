@@ -7,7 +7,7 @@
     <Authors>Try and Trash</Authors>
     <Description>Personal toolkit</Description>
     <PackageTags>dotnet-new;templates</PackageTags>
-    <PackageProjectUrl>N/A</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/yamesant/try-and-trash-templates</PackageProjectUrl>
 
     <PackageType>Template</PackageType>
     <TargetFramework>net8.0</TargetFramework>
